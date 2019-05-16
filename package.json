@@ -1,0 +1,22 @@
+{
+  "name": "shaza-test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "eran",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7",
+    "nodemon": "^1.19.0",
+    "puppeteer": "^1.16.0",
+    "request": "^2.88.0"
+  }
+}
